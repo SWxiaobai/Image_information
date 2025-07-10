@@ -1,1 +1,1 @@
-# Image_information_extraction
+# Image_information
